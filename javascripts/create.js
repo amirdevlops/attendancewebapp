@@ -81,7 +81,7 @@ const divsec1creath1 = document.getElementById("divsec1creath1id")
 showSectionButton.addEventListener("click", function() {
 // Slide in Section 2 by changing the left property to 0
 section2.style.left = "0";
-divsec1creath1.style.marginTop ="0"
+divsec1creath1.style.marginTop ="90px";
 
 
 });
