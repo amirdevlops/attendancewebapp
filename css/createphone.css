@@ -1,0 +1,118 @@
+
+.divsec1creath1{
+    margin-top: 45%  ;
+    color: #e76f51;
+
+}
+
+
+.creatsheet{
+    position: relative;
+    top:0;
+    margin-top:8%;
+    background-color: #264653;
+    width: 37vw;
+    height: 16vw;
+    border-radius: 5px;
+    outline: 5px solid #264653;
+    outline-offset: 5px ;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+.section2creat{
+    margin-top: 30%;
+    
+}
+
+.createinputsec2{
+    height: 35px;
+    width: 80%;
+}
+
+.sec2labelcreate{
+    margin-right: 10px;
+}
+
+.sec2createdivil{
+    width: 20%;
+}
+.sec2createdivil1{
+    width: 90%;
+    margin-top: 4vw;
+}
+
+.sec2createdivil1 input{
+    width: 100%;
+    background-color: #efefef;
+    border-radius: 10px;
+    border:none;
+    padding: 0 10px;
+}
+
+
+
+.borderbk{
+    border: 1px solid;
+}
+
+.topicsec2create{
+    padding: 30px 0;
+    background-color: #264653;
+}
+
+.mastersec2create{
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 90%;
+    overflow: hidden;
+
+}
+
+okcretesec2{
+    width: 100%;
+}
+
+.okcretesec2 button{
+    background-color: #F17F29;
+    width: 80%;
+    height:40px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+#stcreatesheet{
+    margin-top: 30px;
+    
+}
+
+
+#stcreatesheet1 input{
+    width: 90%;
+    background-color: #efefef;
+    border-radius: 10px;
+    border:none;
+    padding: 0 10px;
+    height: 35px;
+    margin-top: 15px;
+    
+}
+
+.savecreatsec2{
+    background-color: #F17F29;
+    width: 80%;
+    height:40px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.section2creat{
+    position: relative;
+    left: -100%;
+    transition: left 0.8s ease;
+}
