@@ -1,0 +1,92 @@
+.section2take{
+    margin-top: 33%;
+}
+
+#createdivtake{
+    margin-top: 6vw;
+}
+
+
+
+.contOfSheetData h2{
+margin-left: 15px;
+}
+
+.mastersecshow{
+    width: 65%;
+    height: 40vh;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+    margin-top: 10vw;
+}
+
+.contsecshow{
+    height: 40%;
+    background-color: #264653;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border: none;
+
+}
+.contsecshow div{
+    border-radius: 60%;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 45%;
+    margin-left: auto;
+    margin-right:auto ;
+    background-color: #e76f51;
+    color: wheat;
+    font-weight: 700;
+    border: 2px solid #EBA664;
+}
+
+.detalsshowdatasec{
+    margin-top: 13vw;
+}
+
+#showattendaceDiv{
+    margin-top: 5vw;
+    margin-left: 10px;
+}
+
+.svgheader{
+    fill: #fff;
+}
+
+.svgstar{
+    fill: #ddd;
+    
+}
+
+#studentsname p {
+    height: 30px;
+    width: 100%;
+    
+}
+
+#studentsnaminput input {
+    height: 20px;
+    width: 100%;
+    margin: 5px 0 ;
+    accent-color: #e76f51;
+    
+}
+
+.mainstrcont{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.saveinformationpresent{
+    background-color: #F17F29;
+    width: 80%;
+    height:40px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
