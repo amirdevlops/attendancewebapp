@@ -66,7 +66,7 @@ function hide() {
 
 let attendaceData;
 mastersecshow.forEach(element => {
-    element.addEventListener("click", function ShowSheetData() {
+    element.addEventListener("touchstart", function ShowSheetData() {
         const getkeynamearray = [];
 
         // Loop through all the children and get their text content
