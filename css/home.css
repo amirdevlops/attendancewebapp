@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.maincont{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/nordwood-themes-yyMJNPgQ-X8-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.headingcontsec2{
+    margin-bottom: 5vw;
+}
+
+.headingcontsec2 p {
+    color:#494848;
+    margin-bottom: 5vw;
+}
+.headingcontsec2 h2{
+    
+    margin-bottom: 5vw;
+}
+
+.buttonhomesec2{
+    width: 50%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: transparent;
+    
+    font-size: 14px;
+    transition: 0.5s ease;
+}
+
+.buttonhomesec2:hover{
+    background-color: #00000069;
+    border-radius: 0;
+    color: white;
+
+}
+
+.section3{
+    height: 100vh;
+    width: 100%;
+}
+
+.downarrow{
+    fill: #264653;
+    height: 50px;
+}
+
+.sec3aimsocnt{
+    margin-left: 10px;
+}
+
+.sec3aimsocnt p{
+margin-top: 30px;
+color: #9d9a9a;
+}
+
+.sec3aimsocnt h2 {
+    text-decoration: underline;
+    text-decoration-color:#e76f51 ;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+
+}
+
+.sec3aimsocnt h2:hover{
+    text-decoration-color:#d0654b
+}
+
+.ourservicecont{
+    background-color: #ddd;
+
+    margin-top: 20px;
+}
